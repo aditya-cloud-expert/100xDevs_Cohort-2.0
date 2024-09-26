@@ -7,4 +7,4 @@
 
 - Learnt About Chrome Developer Tools and How to use it for Debugging and How it helps to manipulate the HTML and CSS in Convinient way
 
-- Best Way to Postition the Elements in HTML is using "FLEX BOX" , instead of generalized {<DIV align="center"> </DIV>}. NEVER use the <div align="center"> </div> ,it's a bad practice. Instead, use <div style=" display: flex; justify-content: center; "> </div>">
+- Best Way to Postition the Elements in HTML is using "FLEX BOX" , instead of generalized {<DIV align="center"> </DIV>}. NEVER use the <div align="center"> </div> ,it's a bad practice. Instead, use <div style=" display: flex; justify-content: center; "> </div>"
