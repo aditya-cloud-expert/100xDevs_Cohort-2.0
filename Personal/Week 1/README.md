@@ -1,6 +1,5 @@
 ## This Folder Contains the learnings from Week 1
 
-
 How to Solve JavaScript Assignments in the Cohort 2.0 ?
 
 =>  You are provided empty JavaScript files (or having function signatures) in this directory. 
@@ -30,7 +29,7 @@ Javascript is Single Threaded Language. Which means it is executed on a single c
 
 Context Switching is possible in Javascript just like other applications. 
 
-Functions can take other fucntions as an input. This is called as Callbacks.
+Functions can take other fucntions as an input. This is called as Callbacks. Literally Means Passing functions as an arguments.
 
 
 
