@@ -31,5 +31,21 @@ Context Switching is possible in Javascript just like other applications.
 
 Functions can take other fucntions as an input. This is called as Callbacks. Literally Means Passing functions as an arguments.
 
+Latentflip.com is a platform where you can Visualize your Javascript code and View Call Stack, Web Api and Call Back Queue. 
+
+Promises are Syntactical Sugar that make the JS slightly more readable.
+function adityareadfile(){
+    return new Promise((timepass_resolve){
+        fs.readFile('./aditya.txt',(err,data)=>{
+            timepass_resolve(data);
+        })
+    })
+}
+
+function display(data){
+    console.log(data.toString());
+}
+
+adityareadfile().then(display);
 
 
