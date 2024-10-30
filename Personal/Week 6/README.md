@@ -1,0 +1,1 @@
+## Reconciliation is the process of taking a current state and  a desired state and determining if there are any changes that need to be made to the current state in order to achieve the desired state.
