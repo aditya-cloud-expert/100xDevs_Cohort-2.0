@@ -1,4 +1,5 @@
 # Welcome to 100xDevs 2.0 Documentation!
+# this is updated comment
 
 Hey there! 👋 This repository is a treasure trove of knowledge gathered during the amazing 100xDevs cohort 2.0, guided by the incredible [@hkirat](https://github.com/hkirat). Dive in to explore my journey through the course – notes, topics we've dived into, and solutions to our assignments.
 
